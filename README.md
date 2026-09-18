@@ -2,7 +2,7 @@
 
 Spotify streaming data analysis and interactive dashboard using Power BI
 
-![Spotify Dashboard](Spotify-Dashboard-Analysis.png)
+![Spotify Dashboard](Spotify Dashboard analysis.png)
 
 ##  Project Overview
 
